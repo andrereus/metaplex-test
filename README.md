@@ -1,8 +1,6 @@
-<p align="center">
-  <a href="https://metaplex.com">
-    <img alt="Metaplex" src="js/packages/web/public/metaplex-logo.svg" style="background: black; padding: 10px" width="250" />
-  </a>
-</p>
+# Solrix MVP
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/120db1c1-07a9-4299-bae0-42a2800a3d92/deploy-status)](https://app.netlify.com/sites/suspicious-panini-596c27/deploys)
 
 Metaplex is a protocol built on top of Solana that allows:
 
