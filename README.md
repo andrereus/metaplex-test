@@ -1,4 +1,4 @@
-# Solrix MVP
+# Metaplex Test
 
 Metaplex is a protocol built on top of Solana that allows:
 
